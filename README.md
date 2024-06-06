@@ -1,6 +1,4 @@
 # FigcaptionExtractor
-
-## Overview
 FigcaptionExtractor is a simple tool designed to extract figcaptions from HTML files. This can be useful for tasks that involve processing and analyzing image captions from web pages.
 
 ## Files
